@@ -16,4 +16,5 @@ class TestInit2 extends TestInit{
     static TestInit2 testInit2 = new TestInit2();
     public TestInit2(){
         System.out.println("Konstruktor z testinit2");
+
     }}
